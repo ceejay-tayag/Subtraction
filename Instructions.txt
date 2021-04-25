@@ -1,0 +1,14 @@
+0-1. Use git bash and command "git clone https:.. " to clone the Button repository.
+0-2. Make Subtract Repository.
+
+
+1. Change activity_main.xml keywords related to SUM into DIFFERENCE.
+
+2. Change MainActivity.java variable names related to SUM into DIFFERENCE.
+
+3. Change the formula.
+
+4. Test app if working according to desired operation.
+
+
+5. Upload to Subtract Repository.
